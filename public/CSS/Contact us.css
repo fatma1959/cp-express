@@ -1,0 +1,139 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+   background-image:url("https://image.shutterstock.com/image-photo/portrait-smiling-customer-support-female-260nw-480000460.jpg") ;
+background-position: center;
+background-size: cover;
+font-family: sans-serif;
+margin-top: 40px;
+}
+.call{
+    width:800px;
+    background-color: rgb(0,0,0,6);
+    margin:auto;
+    color:#FFFFFF;
+    padding:10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+
+}
+.main{
+    background-color: rgb(0,0,0,0.5);
+    width:800px;
+    margin:auto;
+}
+form{
+    padding: 10px;
+}
+#name{
+    width:100%;
+    height: 100px;
+}
+.name{
+    margin-left: 25px;
+    margin-top: 30px;
+    width:125px;
+    color:white;
+    font-size: 18px;
+    font-weight: 700;
+}
+.firstname{
+    position:relative;
+    left:200px;
+    top:-37px;
+    line-height:40px;
+    border-radius: 6px;
+    padding:0 22px;
+    font-size: 16px;
+}
+
+.firstlabel{
+    position:relative;
+    color:#E5E5E5;
+    text-justify: capitalize;
+    font-size:14px;
+    left:203px;
+    top:-45px;
+}
+.lastlabel{
+    position:relative;
+    color:#E5E5E5;
+    text-transform: capitalize;
+    font-size:14px;
+    left:178px;
+    top:-76px;
+}
+.email{
+    position:relative;
+    left:200px;
+    top:-37px;
+    line-height:40px;
+    border-radius: 6px;
+    padding:0 22px;
+    font-size: 16px;
+    color:#555;
+}
+.code{
+    position:relative;
+    left:200px;
+    top:-37px;
+    line-height:40px;
+    border-radius: 6px;
+    padding:0 22px;
+    font-size: 16px;
+    color:#555;
+}
+.number{
+    position:relative;
+    left:200px;
+    top:-37px;
+    line-height:40px;
+    width:260px;
+    border-radius: 6px;
+    padding:0 22px;
+    font-size: 16px;
+    color:#555;
+}
+.area-code{
+    position:relative;
+    color:#E5E5E5;
+    text-transform: capitalize;
+    font-size: 16px;
+    left:52px;
+    top: -4px;
+}
+.phone-number{
+    position:relative;
+    color:#E5E5E5;
+    text-transform: capitalize;
+    font-size: 16px;
+    left:-100px;
+    top: -2px;
+}
+.option{
+    position:relative;
+    left:200px;
+    top:-37px;
+    line-height:40px;
+    width: 532px;
+    border-radius: 6px;
+    padding:0 22px;
+    font-size: 16px;
+    color:#555;
+}
+.option option{font-size: 20px;}
+button{
+    background-color: #3BAF9F;
+    display:block;
+    margin:20px 0px 0px 20px;
+    text-align:center;
+    border-radius: 12px;
+    border:2px solid green;
+    padding:14px 110px;
+    outline: none;
+    color:white;
+    cursor:pointer;
+    transition:0.25px;
+}

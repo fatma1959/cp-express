@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color:lightslategrey;
+}
+.jew{
+    display:flex;
+    justify-content: space-between;
+}
+#im1{
+width:250px;
+height:250px;
+}
+#im2{
+    width:250px;
+    height:250px;
+    }
+#im3{
+    width:250px;
+    height:250px;
+    }
+#im4{
+    width:250px;
+    height:250px;
+}
+#im5{
+    width:250px;
+    height:250px;
+}
+.video{
+    text-align: center;
+    
+    
+}
